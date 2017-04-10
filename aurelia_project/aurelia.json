@@ -14,7 +14,8 @@
     "fileExtension": ".js",
     "options": {
       "plugins": [
-        "transform-es2015-modules-amd"
+        "transform-es2015-modules-amd",
+        "istanbul"
       ]
     },
     "source": "src/**/*.js"
